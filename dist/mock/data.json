@@ -1,0 +1,155 @@
+[
+  {
+    "image": "../source/song_1.jpg",
+    "audioSrc": "../source/song_1.mp3",
+    "name": "听妈妈的话",
+    "album": "依然范特西",
+    "singer": "周杰伦",
+    "time": "04:26",
+    "isLike": true
+  },
+  {
+    "image": "../source/song_2.jpg",
+    "audioSrc": "../source/song_2.mp3",
+    "name": "野狼Disco",
+    "album": "野狼Disco",
+    "singer": "宝石Gem",
+    "time": "03:59",
+    "isLike": false
+  },
+  {
+    "image": "../source/song_3.jpg",
+    "audioSrc": "../source/song_3.mp3",
+    "name": "我和我的祖国",
+    "album": "红歌②",
+    "singer": "韩红",
+    "time": "04:08",
+    "isLike": false
+  },
+  {
+    "image": "../source/song_4.jpg",
+    "audioSrc": "../source/song_4.mp3",
+    "name": "好运来",
+    "album": "好运来",
+    "singer": "祖海",
+    "time": "03:34",
+    "isLike": false
+  },
+  {
+    "image": "../source/告白气球.jpg",
+    "audioSrc": "../source/告白气球.mp3",
+    "name": "告白气球",
+    "singer": "周杰伦",
+    "album": "周杰伦的床边故事",
+    "time": "03:35",
+    "link_lrc": "./source/告白气球.txt"
+  },
+  {
+    "image": "../source/AslongASLoveMe.jpg",
+    "audioSrc": "../source/AslongASLoveMe.mp3",
+    "name": "As long AS Love Me",
+    "singer": "Justin Bieber",
+    "album": "NOW That's What I Call Music! 44",
+    "time": "03:49",
+    "link_lrc": "./source/AslongASLoveMe.txt"
+  },
+  {
+    "image": "../source/SomethingJustLikeThis.jpg",
+    "audioSrc": "../source/SomethingJustLikeThis.mp3",
+    "name": "Something Just Like This",
+    "singer": "Chainsmokers",
+    "album": "Something Just Like This",
+    "time": "04:07",
+    "link_lrc": "./source/SomethingJustLikeThis.txt"
+  },
+  {
+    "image": "../source/YourSong.jpg",
+    "audioSrc": "../source/YourSong.mp3",
+    "name": "Your Song",
+    "singer": "Lady Gaga",
+    "album": "Your Song",
+    "time": "04:16",
+    "link_lrc": "./source/YourSong.txt"
+  },
+  {
+    "image": "../source/凉凉.jpg",
+    "audioSrc": "../source/凉凉.mp3",
+    "name": "凉凉",
+    "singer": "杨宗纬/张碧晨",
+    "album": "凉凉",
+    "time": "05:00",
+    "link_lrc": "./source/凉凉.txt"
+  },
+  {
+    "image": "../source/小城大事.jpg",
+    "audioSrc": "../source/小城大事.mp3",
+    "name": "小城大事",
+    "singer": "张学友",
+    "album": "学友光年世界巡迴演唱会",
+    "time": "03:54",
+    "link_lrc": "./source/小城大事.txt"
+  },
+  {
+    "image": "../source/广东爱情故事.jpg",
+    "audioSrc": "../source/广东爱情故事.mp3",
+    "name": "广东爱情故事",
+    "singer": "广东雨神",
+    "album": "广东爱情故事",
+    "time": "03:34",
+    "link_lrc": "./source/广东爱情故事.txt"
+  },
+  {
+    "image": "../source/我是一个程序员.jpg",
+    "audioSrc": "../source/我是一个程序员.mp3",
+    "name": "我是一个程序员",
+    "singer": "单小叶",
+    "album": "程序猿",
+    "time": "02:14",
+    "link_lrc": "./source/我是一个程序员.txt"
+  },
+  {
+    "image": "../source/演员.jpg",
+    "audioSrc": "../source/演员.mp3",
+    "name": "演员",
+    "singer": "薛之谦",
+    "album": "绅士",
+    "time": "04:21",
+    "link_lrc": "./source/演员.txt"
+  },
+  {
+    "image": "../source/百里守约.jpg",
+    "audioSrc": "../source/百里守约.mp3",
+    "name": "百里守约",
+    "singer": "萧敬腾",
+    "album": "《王者荣耀》百里守约英雄主打歌",
+    "time": "03:42",
+    "link_lrc": "./source/百里守约.txt"
+  },
+  {
+    "image": "../source/社会摇.jpg",
+    "audioSrc": "../source/社会摇.mp3",
+    "name": "社会摇",
+    "singer": "萧全",
+    "album": "社会摇",
+    "time": "04:09",
+    "link_lrc": "./source/社会摇.txt"
+  },
+  {
+    "image": "../source/说散就散.jpg",
+    "audioSrc": "../source/说散就散.mp3",
+    "name": "说散就散",
+    "singer": "袁娅维",
+    "album": "说散就散",
+    "time": "04:02",
+    "link_lrc": "./source/说散就散.txt"
+  },
+  {
+    "image": "../source/输了你赢了世界又如何.jpg",
+    "audioSrc": "../source/输了你赢了世界又如何.mp3",
+    "name": "输了你赢了世界又如何",
+    "singer": "林俊杰",
+    "album": "梦想的声音《第二季》",
+    "time": "04:43",
+    "link_lrc": "./source/输了你赢了世界又如何.txt"
+  }
+]
